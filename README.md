@@ -5,6 +5,8 @@ In this repository, I have added all my LeetCode practice question descriptions 
 ├── Longest Common Prefix
 ├── Merge Two Sorted Lists
 ├── Remove Duplicates from Sorted Array
+├── Remove Element
 ├── Roman to Integer
+├── Search Insert Position
 ├── Two Sum
 └── Valid Parantheses
