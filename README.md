@@ -1,11 +1,13 @@
 # LeetCode-Practice
 In this repository, I have added all my LeetCode practice question descriptions and solutions as I am attempting along the way. I will upload more and more as I attempt them. Please find the list of problems I have attempted below:
 
-## Difficulty: Easy
+### Difficulty: Easy
 
 ```sh
 ├── Average Color
+├── Length of Last Word
 ├── Longest Common Prefix
+├── Maximum Subarray
 ├── Merge Two Sorted Lists
 ├── Remove Duplicates from Sorted Array
 ├── Remove Element
@@ -15,9 +17,10 @@ In this repository, I have added all my LeetCode practice question descriptions 
 └── Valid Parantheses
 ```
 
-## Difficulty: Medium
+### Difficulty: Medium
 
 ```sh
 ├── Add Two Numbers
+├── Longest Palindromic Substring
 └── Longest Substring Without Repeating Characters
 ```
