@@ -5,6 +5,8 @@ In this repository, I have added all my LeetCode practice question descriptions 
 
 ```sh
 ├── Average Color
+├── Binary Search
+├── First Bad Version
 ├── Length of Last Word
 ├── Longest Common Prefix
 ├── Maximum Subarray
@@ -25,4 +27,10 @@ In this repository, I have added all my LeetCode practice question descriptions 
 ├── Longest Palindromic Substring
 ├── Longest Substring Without Repeating Characters
 └── Zigzag Conversion
+```
+
+### Difficulty: Hard
+
+```sh
+└── Median of Two Sorted Arrays
 ```
