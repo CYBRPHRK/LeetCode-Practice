@@ -9,6 +9,7 @@ In this repository, I have added all my LeetCode practice question descriptions 
 ├── Longest Common Prefix
 ├── Maximum Subarray
 ├── Merge Two Sorted Lists
+├── Plus One
 ├── Remove Duplicates from Sorted Array
 ├── Remove Element
 ├── Roman to Integer
@@ -22,5 +23,6 @@ In this repository, I have added all my LeetCode practice question descriptions 
 ```sh
 ├── Add Two Numbers
 ├── Longest Palindromic Substring
-└── Longest Substring Without Repeating Characters
+├── Longest Substring Without Repeating Characters
+└── Zigzag Conversion
 ```
