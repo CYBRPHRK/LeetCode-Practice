@@ -16,6 +16,7 @@ In this repository, I have added all my LeetCode practice question descriptions 
 ├── Remove Element
 ├── Roman to Integer
 ├── Search Insert Position
+├── Squares of a Sorted Array
 ├── Two Sum
 └── Valid Parantheses
 ```
@@ -26,6 +27,7 @@ In this repository, I have added all my LeetCode practice question descriptions 
 ├── Add Two Numbers
 ├── Longest Palindromic Substring
 ├── Longest Substring Without Repeating Characters
+├── Rotate Array
 └── Zigzag Conversion
 ```
 
