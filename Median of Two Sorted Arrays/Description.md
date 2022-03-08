@@ -1,3 +1,5 @@
+### Median of Two Sorted Arrays
+
 Given two sorted arrays `nums1` and `nums2` of size `m` and `n` respectively, return **the median** of the two sorted arrays.
 
 The overall run time complexity should be `O(log (m+n))`.
@@ -24,3 +26,5 @@ Explanation: merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
  - `0 <= n <= 1000`
  - `1 <= m + n <= 2000`
  - `-10^6 <= nums1[i], nums2[i] <= 10^6`
+
+ [Click here to open the solution in Python.](/Median%20of%20Two%20Sorted%20Arrays/Solution.py)

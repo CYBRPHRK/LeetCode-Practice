@@ -1,3 +1,5 @@
+### Longest Common Prefix
+
 Write a function to find the longest common prefix string amongst an array of strings.
 
 If there is no common prefix, return an empty string `""`.
@@ -20,3 +22,5 @@ Explanation: There is no common prefix among the input strings.
  - `1 <= strs.length <= 200`
  - `0 <= strs[i].length <= 200`
  - `strs[i]` consists of only lower-case English letters.
+
+ [Click here to open the solution in Java.](/Longest%20Common%20Prefix/Solution.java)

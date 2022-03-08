@@ -1,3 +1,5 @@
+### First Bad Version
+
 You are a product manager and currently leading a team to develop a new product. Unfortunately, the latest version of your product fails the quality check. Since each version is developed based on the previous version, all the versions after a bad version are also bad.
 
 Suppose you have `n` versions `[1, 2, ..., n]` and you want to find out the first bad one, which causes all the following ones to be bad.
@@ -24,3 +26,5 @@ Output: 1
 **Constraints:**
 
  - `1 <= bad <= n <= 2^31 - 1`
+
+ [Click here to open the solution in Python.](/First%20Bad%20Version/Solution.py)

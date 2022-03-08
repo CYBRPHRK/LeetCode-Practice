@@ -1,3 +1,5 @@
+### Squares of a Sorted Array
+
 Given an integer array `nums` sorted in **non-decreasing** order, return *an array of **the squares of each number** sorted in non-decreasing order*.
 
 **Example 1:**
@@ -21,3 +23,5 @@ Output: [4,9,9,49,121]
  - `nums` is sorted in **non-decreasing** order.
 
 **Follow up:** Squaring each element and sorting the new array is very trivial, could you find an `O(n)` solution using a different approach?
+
+[Click here to open the solution in Python.](/Squares%20of%20a%20Sorted%20Array/Solution.py)

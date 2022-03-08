@@ -1,3 +1,5 @@
+### Zigzag Conversion
+
 The string `"PAYPALISHIRING"` is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility)
 ```
 P   A   H   N
@@ -40,3 +42,5 @@ Output: "A"
  - `1 <= s.length <= 1000`
  - `s` consists of English letters (lower-case and upper-case), `','` and `'.'`.
  - `1 <= numRows <= 1000`
+
+ [Click here to open the solution in Python.](/Zigzag%20Conversion/Solution.py)

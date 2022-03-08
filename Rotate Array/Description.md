@@ -1,3 +1,5 @@
+### Rotate Array
+
 Given an array, rotate the array to the right by `k` steps, where `k` is non-negative.
 
 **Example 1:**
@@ -30,3 +32,5 @@ rotate 2 steps to the right: [3,99,-1,-100]
 
  - Try to come up with as many solutions as you can. There are at least **three** different ways to solve this problem.
  - Could you do it in-place with `O(1)` extra space?
+
+ [Click here to open the solution in Python.](/Rotate%20Array/Solution.py)

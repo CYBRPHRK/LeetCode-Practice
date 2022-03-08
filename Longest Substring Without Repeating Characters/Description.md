@@ -1,3 +1,5 @@
+### Longest Substring Without Repeating Characters
+
 Given a string `s`, find the length of the **longest substring** without repeating characters.
 
 **Example 1:**
@@ -26,3 +28,5 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 
  - `0 <= s.length <= 5 * 10^4`
  - `s` consists of English letters, digits, symbols and spaces.
+
+ [Click here to open the solution in Python.](/Longest%20Substring%20Without%20Repeating%20Characters/Solution.py)

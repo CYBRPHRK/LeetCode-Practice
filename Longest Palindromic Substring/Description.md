@@ -1,3 +1,5 @@
+### Longest Palindromic Substring
+
 Given a string `s`, return *the longest palindromic* substring in `s`.
 
 **Example 1:**
@@ -17,3 +19,5 @@ Output: "bb"
 
  - `1 <= s.length <= 1000`
  - `s` consist of only digits and English letters.
+
+ [Click here to open the solution in Python.](/Longest%20Palindromic%20Substring/Solution.py)

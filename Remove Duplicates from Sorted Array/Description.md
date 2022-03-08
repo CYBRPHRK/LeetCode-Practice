@@ -1,3 +1,5 @@
+### Remove Duplicates from Sorted Array
+
 Given an integer array `nums` sorted in **non-decreasing order**, remove the duplicates **in-place** such that each unique element appears only **once**. The **relative order** of the elements should be kept the **same**.
 
 Since it is impossible to change the length of the array in some languages, you must instead have the result be placed in the **first part** of the array `nums`. More formally, if there are `k` elements after removing the duplicates, then the first `k` elements of `nums` should hold the final result. It does not matter what you leave beyond the first `k` elements.
@@ -43,3 +45,5 @@ It does not matter what you leave beyond the returned k (hence they are undersco
  - `1 <= nums.length <= 3 * 10^4`
  - `-100 <= nums[i] <= 100`
  - `nums` is sorted in **non-decreasing** order.
+
+ [Click here to open the solution in Java.](/Remove%20Duplicates%20from%20Sorted%20Array/Solution.java)

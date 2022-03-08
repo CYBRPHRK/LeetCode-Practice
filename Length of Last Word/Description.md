@@ -1,3 +1,5 @@
+### Length of Last Word
+
 Given a string `s` consisting of some words separated by some number of spaces, return *the length of the **last** word in the string*.
 
 A **word** is a maximal substring consisting of non-space characters only.
@@ -28,3 +30,5 @@ Explanation: The last word is "joyboy" with length 6.
  - `1 <= s.length <= 10^4`
  - `s` consists of only English letters and spaces `' '`.
  - There will be at least one word in `s`.
+
+ [Click here to open the solution in Python.](/Length%20of%20Last%20Word/Solution.py)
