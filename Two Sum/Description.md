@@ -31,4 +31,5 @@ Output: [0,1]
  - `-10^9 <= target <= 10^9`
  - **Only one valid answer exists**.
 
- [Click here to open the solution in Java.](/Two%20Sum/Solution.java)
+[Click here to open the solution in Python.](/Two%20Sum/Solution.py)
+[Click here to open the solution in Java.](/Two%20Sum/Solution.java)
