@@ -24,6 +24,7 @@ In this repository, I have added all my LeetCode practice question descriptions 
  - [Add Two Numbers](/Add%20Two%20Numbers/Description.md)
  - [Longest Palindromic Substring](/Longest%20Palindromic%20Substring/Description.md)
  - [Longest Substring Without Repeating Characters](/Longest%20Substring%20Without%20Repeating%20Characters/Description.md)
+ - [Reverse Integer](/Reverse%20Integer/Description.md)
  - [Rotate Array](/Rotate%20Array/Description.md)
  - [Zigzag Conversion](/Zigzag%20Conversion/Description.md)
 
