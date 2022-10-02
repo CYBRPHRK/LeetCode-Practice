@@ -26,6 +26,7 @@ In this repository, I have added all my LeetCode practice question descriptions 
  - [Longest Substring Without Repeating Characters](/Longest%20Substring%20Without%20Repeating%20Characters/Description.md)
  - [Reverse Integer](/Reverse%20Integer/Description.md)
  - [Rotate Array](/Rotate%20Array/Description.md)
+ - [String to Integer (atoi)](/String%20to%20Integer%20(atoi)/Description.md)
  - [Zigzag Conversion](/Zigzag%20Conversion/Description.md)
 
 ### Difficulty: Hard
