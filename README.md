@@ -3,6 +3,7 @@ In this repository, I have added all my LeetCode practice question descriptions 
 
 ### Difficulty: Easy
 
+ - [Add Binary](/Add%20Binary/Description.md)
  - [Average Color](/Average%20Color/Solution.py)
  - [Binary Search](/Binary%20Search/Description.md)
  - [First Bad Version](/First%20Bad%20Version/Description.md)
