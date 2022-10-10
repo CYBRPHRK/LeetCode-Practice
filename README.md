@@ -13,6 +13,7 @@ In this repository, I have added all my LeetCode practice question descriptions 
  - [Merge Two Sorted Lists](/Merge%20Two%20Sorted%20Lists/Description.md)
  - [Plus One](/Plus%20One/Description.md)
  - [Remove Duplicates from Sorted Array](/Remove%20Duplicates%20from%20Sorted%20Array/Description.md)
+ - [Remove Duplicates from Sorted List](/Remove%20Duplicates%20from%20Sorted%20List/Description.md)
  - [Remove Element](/Remove%20Element/Description.md)
  - [Roman to Integer](/Roman%20to%20Integer/Description.md)
  - [Search Insert Position](/Search%20Insert%20Position/Description.md)
