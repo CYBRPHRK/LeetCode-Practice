@@ -10,6 +10,7 @@ In this repository, I have added all my LeetCode practice question descriptions 
  - [Length of Last Word](/Length%20of%20Last%20Word/Description.md)
  - [Longest Common Prefix](/Longest%20Common%20Prefix/Description.md)
  - [Maximum Subarray](/Maximum%20Subarray/Description.md)
+ - [Merge Sorted Array](/Merge%20Sorted%20Array/Description.md)
  - [Merge Two Sorted Lists](/Merge%20Two%20Sorted%20Lists/Description.md)
  - [Plus One](/Plus%20One/Description.md)
  - [Remove Duplicates from Sorted Array](/Remove%20Duplicates%20from%20Sorted%20Array/Description.md)
